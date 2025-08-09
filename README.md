@@ -7,7 +7,8 @@ Just a developer
 </div>
 
 <div align="center">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+   ![Gautam's GitHub Streak](https://streak-stats.demolab.com/?user=callmegautam)
+
  
 <!--   <img src="https://github-profile-trophy.vercel.app?username=callmegautam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />  -->
 </div>
